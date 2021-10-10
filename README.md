@@ -1,2 +1,2 @@
 # gameOfLife
-game of live made using java
+game of life made using java
